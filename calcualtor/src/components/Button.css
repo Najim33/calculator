@@ -1,0 +1,75 @@
+.button-wrapper{
+    flex: 1;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    font-weight: lighter;
+    background-color: rgb(103, 107, 103);
+    color: rgb(206, 206, 189);
+    /*outline: 1px solid #562;*/
+    font-weight: 700;
+    border-radius: 2px;
+    cursor: pointer;
+    
+    
+}
+.button-wrapper:hover{
+    flex: 1;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    font-weight: lighter;
+    background-color: rgb(89, 128, 146);
+    color: rgb(206, 206, 189);
+    /*outline: 1px solid #562;*/
+    font-weight: 700;
+    
+    cursor: pointer;
+    
+    
+}
+.operator{
+    background-color: rgb(110, 102, 90);
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 700;
+
+}
+.opr{
+    background-color: rgb(110, 102, 90);
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 700;
+    border-bottom-right-radius: 20px;
+  
+
+}
+.opr :hover{
+    background-color:rgb(72, 152, 189);
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 700;
+    border-bottom-right-radius: 20px;
+  
+
+}
+.opl{
+    background-color: rgb(103, 107, 103);
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 700;
+    
+    border-bottom-left-radius: 20px;
+
+}
+.opl :hover{
+    background-color:rgb(72, 152, 189);
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    font-weight: 700;
+    border-bottom-left-radius: 20px;
+}

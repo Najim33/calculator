@@ -1,0 +1,27 @@
+.input{
+    float: right;
+    background-color: rgb(62, 57, 68);
+    height : 100px;
+    width : 100%;
+    text-align: right;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+  font-size: 1.5em;
+  }
+  .inp{
+    text-align: right;
+    color: rgb(165, 131, 131);
+    position: relative;
+    top: 60px;
+  }
+  h4{
+    text-align: right;
+    
+    position: relative;
+    top: -25px;
+    right: 15px;
+    font-family:Keania One;
+     }
+  
+  
